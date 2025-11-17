@@ -47,7 +47,7 @@ These weights form the **corporate-level Success Formula.**
 ---
 
 ## 🧮 2. Success Formula
-The final Talent Match Score is generated using weighted macro-categories:
+The final formula combines Talent Variables (TV) grouped into Talent Value Groups (TGV):
 
 SuccessScore =
 (42.4% × Psychometrics) +
@@ -80,6 +80,8 @@ This design ensures fast, explainable, and scalable scoring across the organizat
 ├── notebooks/ # EDA, XGBoost model, feature importance
 
 ├── sql/ # queries
+
+├── requirements/ # the library used for this project
 
 ├── main report/ # Final results
 
